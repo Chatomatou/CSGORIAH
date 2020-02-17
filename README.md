@@ -13,4 +13,3 @@ Tableau récapitulatif du cheats...
 |   BoxESP   |    ❌   |
 |    Glow    |    ❌   |
 
-![gif](https://ibb.co/4KdT3xJ)
